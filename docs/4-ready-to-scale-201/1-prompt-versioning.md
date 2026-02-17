@@ -1,5 +1,11 @@
 # 🗂️ Prompt Versioning
 
+## Exercise Setup
+
+Make sure you are in the `user2-test` project.
+
+## Steps
+
 > *Organizing ideas into repeatable, structured formats.*
 
 You’ve explored how prompt design can dramatically shape model behavior, it’s time to **bring order to your creativity**.
