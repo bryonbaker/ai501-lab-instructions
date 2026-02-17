@@ -57,7 +57,7 @@ More specifically, we load them into a ConfigMap which then gets mounted to our 
 
     ![canopy-be-pr.png](./images/canopy-be-pr.png)
 
-    Open up that link and document why you picked this prompt. Perhaps your user research revealed that people need summary not longer than 10 sentences. This adds narrative and visibility to prompt decisions. And then click `Create Pull Request`.  
+    Open up that link and document why you picked this prompt. Perhaps your user research revealed that people need summary not longer than 10 sentences. This adds narrative and visibility to prompt decisions.  
 
     ![canopy-be-pr-2.png](./images/canopy-be-pr-2.png)
 
