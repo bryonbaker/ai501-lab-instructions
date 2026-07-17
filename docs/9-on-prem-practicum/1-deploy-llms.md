@@ -62,7 +62,7 @@ In OpenShift AI, we use **KServe** with **vLLM** as the serving runtime to deplo
 
     ![model-catalog.png](./images/model-catalog.png)
 
-2. Click TinyLlama and read its model card. Prety much the same thing what we read in Hugging Face. On the upper right corner, click **Deploy**.
+2. Click TinyLlama and read its model card. Pretty much the same thing what we read in Hugging Face. On the upper right corner, click **Deploy**.
 
     ![model-catalog-2.png](./images/model-catalog-2.png)
 
